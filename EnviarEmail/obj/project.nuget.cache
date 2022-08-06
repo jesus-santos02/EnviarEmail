@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SQD/6tBwfpWK7S85vSrkJEbKue4HNvscEofg0SfgpGp1HhyANXhpeZpLQh0QDLXID9vd4Nd4zi/XSdZSKk4FKQ==",
+  "success": true,
+  "projectFilePath": "D:\\ARCHIVOS\\INFORMATICA\\PRACTICAS\\PROGRAMACION\\Udemy\\FELIPE GAVILAN\\Aprende ASP.NET Core MVC\\EnviarEmail\\EnviarEmail\\EnviarEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OSADO\\.nuget\\packages\\mailkit\\3.3.0\\mailkit.3.3.0.nupkg.sha512",
+    "C:\\Users\\OSADO\\.nuget\\packages\\mimekit\\3.3.0\\mimekit.3.3.0.nupkg.sha512",
+    "C:\\Users\\OSADO\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\OSADO\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\OSADO\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
